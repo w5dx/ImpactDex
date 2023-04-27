@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Polkadex-Substrate/Documentation/blob/master/images/Logo.svg)
-## What is Polkadex? :rocket:
-Polkadex is a Open Source, Decentralized Exchange Platform made using Substrate Blockchain Framework that provides traders with the centralized user experience.
+## What is ImpactDex? :rocket:
+ImpactDex is a Open Source, Decentralized Exchange Platform made using Substrate Blockchain Framework that provides traders with the centralized user experience.
 ## Why did we do this? :gift:
 There are many decentralized exchanges/protocols available in the market for traders but they still prefer to use centralized solutions for their convenience and ease of use knowing very well that their funds are at risk. This is because decentralized solutions are still not user friendly to an average trader. Some of them also have no proper decentralization and also got hacked in the process. We cannot call an exchange decentralized if it can lose or freeze customer funds.
 
@@ -30,9 +30,9 @@ The value we provide to the Substrate community is,
 3. They get a decentralized trading platform to trade Polkadot & Ethereum tokens.
 4. This will be one of the first Decentralized exchanges to have High-Frequency Trading bot support using APIs directly from full nodes.
    ![Web3 Grants](https://github.com/Polkadex-Substrate/Documentation/blob/master/images/web3%20foundation_grants_badge_black.svg)
-## Build the Polkadex Node 💃
+## Build the ImpactDex Node 💃
 
-To build Polkadex, you will need a proper Substrate development environment. If you need a refresher setting up your Substrate environment, see [Substrate's Getting Started Guide](https://substrate.dev/docs/en/knowledgebase/getting-started/).
+To build ImpactDex, you will need a proper Substrate development environment. If you need a refresher setting up your Substrate environment, see [Substrate's Getting Started Guide](https://substrate.dev/docs/en/knowledgebase/getting-started/).
 
 Note that cloning master might result in an unstable build. If you want a stable version, check out the [latest releases](https://github.com/Polkadex-Substrate/Polkadex/releases).
 

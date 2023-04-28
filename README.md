@@ -1,4 +1,4 @@
-![Logo](https://github.com/Polkadex-Substrate/Documentation/blob/master/images/Logo.svg)
+![Logo](https://raw.githubusercontent.com/w5dx/Documents/main/impact-dex.png)
 ## What is ImpactDex? :rocket:
 ImpactDex is a Open Source, Decentralized Exchange Platform made using Substrate Blockchain Framework that provides traders with the centralized user experience.
 ## Why did we do this? :gift:
